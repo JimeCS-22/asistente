@@ -1,0 +1,15 @@
+### 1. Probar CON RAG
+POST http://localhost:8084/api/consultas
+Content-Type: application/json
+
+{
+  "pregunta": "¿Qué película de ciencia ficción recomiendas para ver en familia?"
+}
+
+### 2. Probar SIN RAG (El contraste)
+POST http://localhost:8084/api/consultas/sin-rag
+Content-Type: application/json
+
+{
+  "pregunta": "¿Qué película de ciencia ficción recomiendas para ver en familia?"
+}

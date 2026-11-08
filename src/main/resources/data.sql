@@ -1,0 +1,16 @@
+INSERT INTO pelicula (id, titulo, genero, anio, recaudacion_millones, clasificacion, sinopsis) VALUES
+(1,'Interestelar','Ciencia ficción',2014,773,'PG-13','Un grupo de astronautas viaja a través de un agujero de gusano para encontrar un nuevo hogar para la humanidad.'),
+(2,'Avatar','Ciencia ficción',2009,2923,'PG-13','Un marine herido se une a los nativos de la luna Pandora y debe elegir entre dos mundos.'),
+(3,'Matrix','Ciencia ficción',1999,467,'R','Un programador descubre que la realidad es una simulación controlada por máquinas.'),
+(4,'Wall-E','Ciencia ficción',2008,521,'G','Un pequeño robot limpiador de basura en una Tierra abandonada vive una tierna aventura espacial. Apta para toda la familia.'),
+(5,'Toy Story','Animación',1995,394,'G','Los juguetes de un niño cobran vida cuando nadie los ve y un vaquero y un astronauta aprenden a ser amigos.'),
+(6,'Coco','Animación',2017,807,'PG','Un niño que sueña con ser músico viaja a la Tierra de los Muertos para descubrir la historia de su familia.'),
+(7,'Buscando a Nemo','Animación',2003,940,'G','Un pez payaso cruza el océano para rescatar a su hijo, con ayuda de una pez olvidadiza.'),
+(8,'Jurassic Park','Aventura',1993,1109,'PG-13','Un parque temático con dinosaurios clonados se sale de control y los visitantes luchan por sobrevivir.'),
+(9,'El Rey León','Animación',1994,968,'G','Un joven león debe recuperar su reino tras la muerte de su padre. Una historia familiar con música inolvidable.'),
+(10,'Mad Max: Furia en el camino','Acción',2015,380,'R','En un desierto postapocalíptico, una guerrera y un fugitivo escapan de un tirano en una persecución brutal.'),
+(11,'Titanic','Romance',1997,2264,'PG-13','Un joven artista y una joven de clase alta se enamoran a bordo del célebre barco que se hunde.'),
+(12,'El Conjuro','Terror',2013,320,'R','Un matrimonio de investigadores paranormales ayuda a una familia atormentada por una presencia oscura.'),
+(13,'Superbad','Comedia',2007,170,'R','Dos amigos de secundaria intentan conseguir alcohol para una fiesta en una noche caótica y divertida.'),
+(14,'Volver al futuro','Ciencia ficción',1985,389,'PG','Un adolescente viaja al pasado en un auto convertido en máquina del tiempo y debe asegurar que sus padres se enamoren.'),
+(15,'Duna','Ciencia ficción',2021,407,'PG-13','Un joven noble viaja al peligroso planeta desierto Arrakis, fuente de la especia más valiosa del universo.');
